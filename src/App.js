@@ -247,6 +247,7 @@ const users = [{
 const App = () => {
   return (
     <div className="App">
+       
       <UserListWidget users={users} />
     </div>
   );

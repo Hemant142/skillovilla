@@ -12,6 +12,7 @@ const UserListWidget = ({ users }) => {
 
   return (
     <div className="user-list-widget">
+      <h3>User List</h3>
       <input
         type="text"
         placeholder="Search by name/location"
